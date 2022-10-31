@@ -7,3 +7,5 @@ end = result - int(result)
 print(str(end)[N+1])
 
 # 추가 했다 이부분
+# kelfnslfndsf
+# lfew;lmf;lwf
