@@ -10,3 +10,6 @@ print(str(end)[N+1])
 # kelfnslfndsf
 # lfew;lmf;lwf
 # djdjdjdjjdd
+
+for i in range(100):
+    print('hi')
